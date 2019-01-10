@@ -21,7 +21,7 @@ For any AddOns you want to use, you'll need to browse to [https://www.twilio.com
 
 You'll use the unique name in the cURL call.
 
-![alt text](enable_add_on.png)
+![AddOn Setup](https://raw.githubusercontent.com/AuthySE/Lookup-API-Samples/master/enable_add_on.png)
 
 
 ### Example cURLs
