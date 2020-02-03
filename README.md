@@ -12,7 +12,6 @@ Add them to the .env file and
 ### First Class Twilio Calls
 1. Basic
 1. Carrier
-1. Fraud
 
 ### 3rd Party AddOns
 For any AddOns you want to use, you'll need to browse to [https://www.twilio.com/console/lookup/add-ons](https://www.twilio.com/console/lookup/add-ons) and:
